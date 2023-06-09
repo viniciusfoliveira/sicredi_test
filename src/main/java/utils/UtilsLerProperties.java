@@ -5,6 +5,7 @@ import java.util.Properties;
 
 public class UtilsLerProperties {
 
+
     private UtilsLerProperties(){}
 
     public static String getProperties(String valor) {

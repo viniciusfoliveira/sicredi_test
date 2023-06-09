@@ -1,6 +1,5 @@
 package builder;
 
-import dto.LoginDTO;
 import dto.ProductDTO;
 
 public class ProductBuilder {

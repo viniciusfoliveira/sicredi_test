@@ -1,6 +1,5 @@
 package client;
 
-import dto.LoginDTO;
 import dto.RequisicaoDTO;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;

@@ -6,8 +6,6 @@ import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 
-import java.util.Map;
-
 public class UserClient {
 
     public static Response get(RequisicaoDTO requisicao) {
