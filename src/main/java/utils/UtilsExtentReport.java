@@ -34,7 +34,7 @@ public class UtilsExtentReport {
 
     public static void fail(String cenario) {
         ExtentTest test = reports.createTest(cenario);
-        test.log(Status.PASS, cenario);
+        test.log(Status.FAIL, cenario);
     }
 
     public static void fecharCenario() {
