@@ -13,7 +13,6 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 import utils.UtilsAmbiente;
 import utils.UtilsExtentReport;
-import utils.UtilsLerProperties;
 
 import java.util.List;
 import java.util.Map;
